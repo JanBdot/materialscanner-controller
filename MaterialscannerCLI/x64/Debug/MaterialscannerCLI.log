@@ -1,0 +1,7 @@
+﻿  Client.cpp
+D:\dev\Materialscanner\materialscanner-controller\MaterialscannerCLI\MaterialscannerCLI\Client.h(2,10): warning C4067: Unerwartete Token nach Präprozessordirektive - Zeilenvorschub erwartet.
+D:\dev\Materialscanner\materialscanner-controller\MaterialscannerCLI\MaterialscannerCLI\UserCallBack.h(4,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "mqtt/client.h": No such file or directory
+  MaterialscannerCLI.cpp
+D:\dev\Materialscanner\materialscanner-controller\MaterialscannerCLI\MaterialscannerCLI\Client.h(2,10): warning C4067: Unerwartete Token nach Präprozessordirektive - Zeilenvorschub erwartet.
+D:\dev\Materialscanner\materialscanner-controller\MaterialscannerCLI\MaterialscannerCLI\UserCallBack.h(4,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "mqtt/client.h": No such file or directory
+  Code wird generiert...
